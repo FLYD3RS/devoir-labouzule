@@ -1,0 +1,36 @@
+body{
+    /* background: rgba(92, 184, 92,0.3);*/
+    /* background: rgba(22, 160, 133,0.5); */
+    background: #EAEDF2;
+}
+p {
+    font-family: "NeueHaasUnicaPro", "Helvetica Neue", Arial, sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.3);
+    font-weight: 600;
+}
+.row {
+     margin-left: 0; 
+     margin-right: 0; 
+     
+}   
+
+.fa-spinner {
+    margin-top: 5%;
+    color: rgba(92, 184, 92, 1.0);    
+}
+#map {
+    border: 5px solid rgba(92, 184, 92, 0.7);
+    width: 80%;
+    height: 400px;
+    background-color: #CCC;    
+}
+@media (min-width: 544px){
+    .navbar {
+         border-radius: 0; 
+    } 
+}
+@media (max-width: 992px){
+    
+}

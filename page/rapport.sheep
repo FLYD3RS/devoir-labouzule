@@ -1,0 +1,45 @@
+﻿<div id="rapport" class="row">
+    <div class="col-xs-2"></div>
+    <div class=" col-sm-8">
+        <center>
+            <div class="container">
+                <div class="jumbotron">
+                    <h1>La ferme de la Bouzule.</h1>
+                    <p></p>
+                    <div id="map"></div>
+                </div>
+
+        </center>
+        <p>
+            <blockquote class="blockquote">
+                <p class="m-b-0">&nbsp;&nbsp; La ferme de La Bouzule est une ferme expérimentale a finalité pédagogique et scientifique, elle appartient a l'ENSAIA depuis le milieu des années 60.
+            C'est une ferme de type polyculture-élevage vivant de ses productions. la Bouzule est une exploitation laitière bovine et caprine s’étendant sur un domaine de 
+            155 hectares de cultures et de prairies. Aux côtés d’une trentaine de vaches allaitantes charolaises. La Bouzule regroupe 80 vaches laitières, de race Prim'Holstein,
+            ainsi qu’une trentaine de bœufs. La Bouzule compte aussi une centaine de chèvres de race Alpine chamoisée. elles sont utilisées pour leur lait ainsi que pour 
+            des études par des laboratoires de l’Ensaia.</p>
+                <footer class="blockquote-footer">Information extraite du site de l'<cite><a href="http://ensaia.univ-lorraine.fr/">ENSAIA</a></cite></footer>
+            </blockquote>
+            
+            <br>
+        </p>
+        <p style="color: green">Les points forts de la ferme:</p>
+        <p>+ Son autonomie :
+            <br> -> Energetique grâce à sa plateforme de méthanisation
+            <br> -> Alimentaire dû au plantation.
+            <br> + Ecologique
+            <br> + Sa proximité avec la ville (20min)
+            <br>
+        </p>
+
+        <br>
+        <p style="color: red">Les points faibles: </p>
+        <p>Incapacité de stocker le surplus d’énergie produit.</p>
+
+        </div>
+
+
+
+    </div>
+    <div class="col-xs-2"></div>
+
+</div>

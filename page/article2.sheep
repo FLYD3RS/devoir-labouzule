@@ -1,0 +1,44 @@
+﻿<div id="article2" class="row">
+    <div class="col-xs-2"> </div>
+    <div class="col-sm-8">
+        <div class="container">
+            <div class="jumbotron">
+                <h1>Une ferme tendant vers l’autonomie.</h1>
+                <p></p>
+                <img src="../img/picture2.jpg" height="40%" width="100%" />
+            </div>
+
+
+
+            <h3>
+  L'import de ressource:
+  <small class="text-muted">dans la bouzule</small>
+  </h3>
+            <br>
+            <p>
+                &nbsp;&nbsp; En effet la ferme de La Bouzule peut paraître comme un modèle d'autonomie puisque celle-ci n'importe que très peu de ressources (électricité, produits chimiques à très petites doses par exemple pour les vaches malades, ainsi que des pièces mécaniques comme un robot de traite ou un tracteur...) à par ces principales sources d'importations la ferme crée tout localement et peut-être amené à revendre les surplus. Par exemple les engrais utilisés sont issus de fumier, les nourritures des bêtes issues des champs à part les veaux dû à une alimentation spécifique.
+                </br> &nbsp;&nbsp; Au niveau énergétique La ferme de La Bouzule dépend d' EDF mais celle-ci produit aussi de l'électricité à l'aide du méthaniser installé, Cependant étant donné que la ferme vend plus d'électricité que ce qu'elle consomme cela lui permet de gagner de l'argent là où de nombreuses fermes devraient payer l'électricité. Le chauffage est lui aussi produit localement grâce à la chaleur dégagée par l'alternateur qui convertit le biogaz en électricité.
+            </p>
+            <h3>
+  L'export de produit:
+  <small class="text-muted">dans la bouzule</small>
+  </h3>
+            <br>
+            <p>
+                &nbsp;&nbsp; Quand à l’exportation, la ferme vend de la viande, du lait, du fromage, ainsi que de l’éléctricité à EDF
+            </p>
+            <h3>
+  Avantages et inconvenients:
+  <small class="text-muted">d'une ferme autonome</small>
+  </h3>
+            <br>
+            <p>
+                <p style="color:green;">Avantages: économie financière, le prix de la nourriture n'est plus lié au marché.</p>
+                <p style="color:red;">Désavantages: Demande beaucoup d'espace et plus de temps</p>
+            </p>
+        </div>
+    </div>
+    <div class="col-xs-2"></div>
+
+
+</div>

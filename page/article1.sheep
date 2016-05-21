@@ -1,0 +1,69 @@
+﻿<div id="article1" class="row">
+    <div class="col-xs-2"> </div>
+    <div class="col-sm-8">
+        <div class="container">
+            <div class="jumbotron">
+                <h1>Le méthaniseur</h1>
+                <p>La ferme de La Bouzule dispose d'un méthanisateur mais à quoi peut-il bien servir ?</p>
+                <img src="../img/picture3.jpg" height="40%" width="100%" />
+            </div>
+
+
+
+            <h3>
+  Le méthaniseur:
+  <small class="text-muted">Explication</small>
+  </h3>&nbsp;&nbsp; Voici à quoi peut ressembler un méthaniseur, cependant sur cette image nous voyons qu’une petite partie de celui-ci puisque la majorité du méthaniseur se trouve sous terre.
+            <br>
+            <p>
+                &nbsp;&nbsp; Le principe de fonctionnement du méthaniseur est assez simple. A l’aide de déchet organique mis dans la partie souterraine du méthaniseur celui-ci va produire du biogaz majoritairement composé de Méthane ( CH4 ) et d’oxygène (O2). Cette transformation s'effectue sous l'effet des bactéries présentes naturellement dans les matières telles que les déjections animales. Ce gaz pourra ensuite être transformé en électricité grâce à un alternateur. Il sera aussi possible de récupérer la chaleur produite par cette alternateur pour par exemple chauffer les batiments de l’installation. Quand aux déchets mit dans le digestat ils pourront être utilisés comme engrais.
+                <br> &nbsp;&nbsp; Aujourd’hui la méthanisation est fortement soutenue par l’état, le problème reste son accessibilité puisqu’un méthaniseur coûte cher (environs un million d'euro) l’investissement serait rentabilisé après plusieurs années d’utilisation. Un méthaniseur demande aussi beaucoup de temps.
+                <br>
+                <center>&nbsp;&nbsp; Voici donc les avantages et inconvénients du méthaniseur:</center>
+            </p>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th style="color: green;">Avantages</th>
+                        <th style="color: red;">Inconvénients</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Revente d’éléctricité à prix fixe</td>
+                        <td>Peu accessible</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Chauffage</td>
+                        <td>Demande de l'entretien</td>
+                    </tr>
+                    <tr>
+                        <td>Transforme les déchets en engrais</td>
+                        <td>---</td>
+                    </tr>
+                    <tr>
+                        <td>Ecologique</td>
+                        <td>---</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3>
+  Le méthaniseur:
+  <small class="text-muted">Sa place dans la Bouzule</small>
+  </h3>
+            <br>
+            <p>
+                &nbsp;&nbsp; Dans le cas de la ferme de la bouzule ce sont chaque année 1740 m3 de lisiers, 1590 tonnes de fumier et la fromagerie 60 tonnes de lactosérum qui sont placés dans le méthaniseur afin de produire 300 000 kw/h d'electricité et autant en chaleur. Cette éléctricité sera revendue ensuite à EDF et permettra à la ferme d’avoir une source supplémentaire d’argent. Le digestat quand à lui sera déposé sur les terres afin d’enrichir le sol</p>
+            <h3>
+  Le méthaniseur:
+  <small class="text-muted">Conclusion</small>
+  </h3> &nbsp;&nbsp; Le méthaniseur permet donc de rentabiliser les nombreux déchets d'une ferme en chauffage, en engrais ainsi qu'en électricité.
+            <br>
+        </div>
+    </div>
+    <div class="col-xs-2"></div>
+
+
+</div>
